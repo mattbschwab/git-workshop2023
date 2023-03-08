@@ -1,1 +1,1 @@
-print("Dude")
+print("Dude, screw the car")
